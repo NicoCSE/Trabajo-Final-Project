@@ -15,6 +15,14 @@ Your draft stays private until you choose to publish.
 
 holaaaaa :v topoyiyo
 
+
+
+<div align="center">
+  <img src="images/UPC_Logo.png" width ="50" height="50">
+</div>
+
+
+
 ![Logo UPC](images/UPC_Logo.png)
 
 ### Competitive Analysis Landscape
