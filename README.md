@@ -13,3 +13,5 @@ Aquí van los dos segmentos objetivo que elegimos para nuestro proyecto, especif
 
 # Características principales:
 Aquí van las características principales de la aplicación, separadas por segmento.
+
+# Perfiles de los integrantes de los miembros del equipo:
