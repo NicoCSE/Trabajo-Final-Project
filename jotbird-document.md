@@ -7,15 +7,9 @@ Listo ya puedo editar
 
 Your draft stays private until you choose to publish.
 
-
 | Version | Fecha | Descripcion | Autor | Imagen |
 | :--- | :--- | :--- | :--- | :--- |
 | 1 | 02/04/2026 | Prueba de cuadro | Padre Domingo |  <img src="images/UPC_Logo.png" width ="50" height="50"> |
-
-
-holaaaaa :v topoyiyo
-
-
 
 <div align="center">
   <img src="images/UPC_Logo.png" width ="50" height="50">
