@@ -18,3 +18,6 @@ Aquí van las características principales de la aplicación, separadas por segm
 | Foto | Nombre | Presentación |
 | :--- | :--- | :--- |
 | Foto | Tu nombre | Su descripción aquí |
+| :--- | :--- | :--- |
+| Foto | Sebastián Pinedo | Hola, soy Sebastián y estudio Ingeniería de Software, actualmente voy en el quinto ciclo. Me considero una persona tranquila y me gusta trabajar en equipo, manteniendo siempre un buen ambiente con mis compañeros. Estoy dispuesto a dar lo mejor de mí en el proyecto y aportar con ideas, además de aprender de los demás y compartir lo que sé para que podamos lograr un buen resultado juntos.
+ |
