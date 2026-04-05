@@ -22,8 +22,14 @@ Para una Empresa Prestadora de Servicios (EPS) o una operadora de residuos sóli
 
 
 ### 2.1.1. Análisis competitivo
+
+El análisis competitivo estructurado a continuación emplea una matriz de variables del mercado (Landscape) junto con un análisis FODA cruzado (SWOT) para evaluar el posicionamiento estratégico de la solución propuesta frente a plataformas consolidadas.
+
+
 ### 2.1.2. Estrategias y tacticas frente a competidores
 Al momento de ingresar a un mercado caracterizado por infraestructuras heredadas junto a monopolios tecnológicos internacionales, la startup debe adoptarse a un pragmatismo estratégico. La viabilidad  del negocio no solo reside en competir en fuerza bruta de capital con corporaciones como Veolia, sino que se busca capturar un nicho crítico para resolver fricciones regulatorias, además de logísticas, que varios competidores globales ignoran.
+
+
 
 A continuación, se detallan las estrategias operativas junto a las tácticas arquitectónicas que guiarán la construcción al igual que el despliegue del producto:
 
