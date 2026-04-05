@@ -50,11 +50,12 @@ Creemos que integrar detectores de gases tóxicos en el plan base lograremos aum
 Creemos que automatizar la logística de redistribución de agua recuperada lograremos que las empresas operadoras generen una nueva línea de impacto social. Sabremos que tenemos razón cuando al menos 2 sectores necesitados reciban agua monitoreada por nuestra plataforma en los primeros 6 meses.
 
 #### 1.2.2.4. Lean UX Canvas
-| --- | --- | --- |
+| 1. Business Problem | 2. Business Outcomes | 3. Users |
 | :--- | :--- | :--- |
-| 1. Business Problem | 5. Solutions | 3. Users |
-| 3. Users |  | 4. User Benefits |
-| 6. Hypothesis | 7. What’s the most important thing we need to learn first? | 8. What’s the least amount of work we need to do to learn the next most important thing? |
+| Las EPS (como SEDAPAL) y operadoras de residuos en Lima carecen de visibilidad en tiempo real de sus redes. Esto causa: costos críticos, inseguridad y desperdicio de las aguas. | Disminución del 20% en salidas de cuadrillas de emergencia. Reducción de infracciones por parámetros de PH fuera de norma. Lograr que al menos 2 sectores vulnerables reciban agua recuperada en el primer semestre. Seguridad: 80% de aceptación de la plataforma como herramienta de EPP digital. | Gerentes de Operaciones (EPS), quienes buscan eficiencia y evitar sanciones. Jefes de Cuadrilla/Mantenimiento, quienes necesitan saber dónde actuar antes del desborde. Operadoras de Residuos, quienes necesitan evitar que lixiviados contaminen cuencas (Rímac/Chillón). Buscan data para proyectos de Smart City. |
+| 4. User Outcomes & Benefits: Menos "incendios" operativos y crisis por desbordes. Detección temprana de gases tóxicos antes de ingresar a ductos. Validación de cumplimiento ambiental ante la comunidad y entes reguladores. | 5. Solutions | 6. Hypothesis |
+| 7. What’s the most important thing we need to learn first? | 8. What’s the least amount of work we need to do to learn the next most important thing? |
+
 ## 1.3. Segmentos objetivo
 Nuestra aplicación se dirige a dos segmentos clave en el ecosistema de gestión de agua y residuos en Perú, enfocados en resolver la contaminación y subutilización del agua en estado deficiente. Ambos segmentos operan en un mercado con alta demanda por soluciones IoT debido a regulaciones ambientales estrictas (Ley General del Ambiente y DS 015 2015 MINAM) y la escasez hídrica crónica en zonas urbanas como Lima.
 **1. Empresas prestadoras de servicios de agua y alcantarillados (EPS).**
