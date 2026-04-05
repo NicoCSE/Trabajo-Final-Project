@@ -27,26 +27,26 @@ Al momento de ingresar a un mercado caracterizado por infraestructuras heredadas
 A continuación, se detallan las estrategias operativas junto a las tácticas arquitectónicas que guiarán la construcción al igual que el despliegue del producto:
 
 **1. Estrategia de Localización con Mitigación de Riesgos Normativos (Posicionamiento frente a Kando o Veolia)**
-      ●	Objetivo Estratégico: Diferenciarse radicalmente de las plataformas genéricas extranjeras, consolidando el software como una herramienta nativa de cumplimiento regulatorio, sirviendo como protección financiera para las empresas locales.
+- 	**Objetivo Estratégico:** Diferenciarse radicalmente de las plataformas genéricas extranjeras, consolidando el software como una herramienta nativa de cumplimiento regulatorio, sirviendo como protección financiera para las empresas locales.
 
-   ●	Táctica Ejecutable: La arquitectura de la base de datos, operando en conjunto con el motor de alertas, se parametrizará rígidamente bajo los estándares exigidos por las autoridades nacionales. El sistema evaluará en tiempo real el pH junto a la emisión de gases tóxicos. Si los parámetros se acercan a los límites permisibles sancionables (los cuales pueden           desencadenar multas superiores a los S/ 128 millones, según el OEFA), el sistema generará bloqueos preventivos, emitiendo     reportes automatizados en el formato exacto requerido por los fiscalizadores (OEFA, 2024).
+- **Táctica Ejecutable:** La arquitectura de la base de datos, operando en conjunto con el motor de alertas, se parametrizará rígidamente bajo los estándares exigidos por las autoridades nacionales. El sistema evaluará en tiempo real el pH junto a la emisión de gases tóxicos. Si los parámetros se acercan a los límites permisibles sancionables (los cuales pueden           desencadenar multas superiores a los S/ 128 millones, según el OEFA), el sistema generará bloqueos preventivos, emitiendo     reportes automatizados en el formato exacto requerido por los fiscalizadores (OEFA, 2024).
 
 **2. Estrategia de Océano Azul: Cierre de la Cadena de Valor (Posicionamiento frente a SmartCover)**
 
-   ●	Objetivo Estratégico: Trascender la simple capa de telemetría e infraestructura de monitoreo, integrando la gestión comercial junto a la logística, habilitando la economía circular en el sector hídrico.
+- **Objetivo Estratégico:** Trascender la simple capa de telemetría e infraestructura de monitoreo, integrando la gestión comercial junto a la logística, habilitando la economía circular en el sector hídrico.
 
-   ●	Táctica Ejecutable: Mientras la competencia detecta un flujo de agua para luego emitir una alerta, la plataforma integrará un "Módulo de Logística de Redistribución". Al detectar que un volumen de agua residual cumple con los parámetros químicos para su reúso (conforme a los lineamientos de la ANA, 2026), el sistema no solo alertará a la planta, sino que orquestará la disponibilidad de este recurso en la plataforma, permitiendo su asignación junto a su transporte hacia sectores de alto déficit hídrico, transformando un desecho en un activo logístico.
+- **Táctica Ejecutable:** Mientras la competencia detecta un flujo de agua para luego emitir una alerta, la plataforma integrará un "Módulo de Logística de Redistribución". Al detectar que un volumen de agua residual cumple con los parámetros químicos para su reúso (conforme a los lineamientos de la ANA, 2026), el sistema no solo alertará a la planta, sino que orquestará la disponibilidad de este recurso en la plataforma, permitiendo su asignación junto a su transporte hacia sectores de alto déficit hídrico, transformando un desecho en un activo logístico.
 
 **3. Estrategia Land and Expand mediante Reducción de Barreras CAPEX**
 
-   ●	Objetivo Estratégico: Vencer la resistencia financiera de las empresas estatales al igual que operadoras medianas que no pueden asumir los costos de implementación de licencias de competidores como Veolia.
+- **Objetivo Estratégico:** Vencer la resistencia financiera de las empresas estatales al igual que operadoras medianas que no pueden asumir los costos de implementación de licencias de competidores como Veolia.
 
-   ●	Táctica Ejecutable: El modelo de comercialización se ejecutará bajo un esquema de Software as a Service (SaaS), sustituyendo fuertes inversiones de capital (CAPEX) por gastos operativos manejables (OPEX). El ingreso inicial a la organización cliente se realizará a través de un piloto controlado en nodos críticos de la red de alcantarillado, demostrando empíricamente la reducción de los costos operativos (despliegue de cuadrillas de emergencia) como mecanismo de conversión hacia la adopción total del ecosistema de sensores.
+- **Táctica Ejecutable:** El modelo de comercialización se ejecutará bajo un esquema de Software as a Service (SaaS), sustituyendo fuertes inversiones de capital (CAPEX) por gastos operativos manejables (OPEX). El ingreso inicial a la organización cliente se realizará a través de un piloto controlado en nodos críticos de la red de alcantarillado, demostrando empíricamente la reducción de los costos operativos (despliegue de cuadrillas de emergencia) como mecanismo de conversión hacia la adopción total del ecosistema de sensores.
 
 **4. Estrategia de Cero Fricción en la Interfaz Operativa (UI/UX)**
   
-●	Objetivo Estratégico: Garantizar la adopción de la herramienta por parte del personal de campo al igual que operarios, mitigando el rechazo que generan los complejos tableros de control diseñados por la competencia exclusivamente para ingenieros de datos.
+- **Objetivo Estratégico:** Garantizar la adopción de la herramienta por parte del personal de campo al igual que operarios, mitigando el rechazo que generan los complejos tableros de control diseñados por la competencia exclusivamente para ingenieros de datos.
 
-●	Táctica Ejecutable: La interfaz de usuario (Front-end) se dividirá metodológicamente. El Back-Office web proveerá la densidad analítica requerida por la gerencia, mientras que el módulo para operadores de campo se construirá bajo principios de Mobile-First. Esta interfaz emitirá notificaciones Push asíncronas, directas, además de accionables, requiriendo un esfuerzo cognitivo mínimo para confirmar la atención de una obstrucción o riesgo biológico en tiempo real.
+- **Táctica Ejecutable:** La interfaz de usuario (Front-end) se dividirá metodológicamente. El Back-Office web proveerá la densidad analítica requerida por la gerencia, mientras que el módulo para operadores de campo se construirá bajo principios de Mobile-First. Esta interfaz emitirá notificaciones Push asíncronas, directas, además de accionables, requiriendo un esfuerzo cognitivo mínimo para confirmar la atención de una obstrucción o riesgo biológico en tiempo real.
 
 
