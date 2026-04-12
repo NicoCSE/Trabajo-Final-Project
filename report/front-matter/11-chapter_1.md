@@ -61,7 +61,7 @@ Creemos que automatizar la logística de redistribución de agua recuperada logr
 | :--- | :--- |
 | Las EPS y operadoras de residuos en Lima carecen de visibilidad en tiempo real de sus redes, resultando en mantenimiento reactivo y multas de la OEFA (hasta S/ 128M), riesgos por gases tóxicos en ductos, y desperdicio de las aguas residuales en Lima. | • Reducción del 20% en salidas de cuadrillas de emergencia por obstrucciones.<br>• Cero infracciones por parámetros de PH fuera de norma.<br>• Al menos 2 sectores vulnerables reciban agua recuperada en el primer semestre.<br>• 80% de adopción de la plataforma como EPP digital. |
 | **3. Users & Customers** | **4. User Benefits** |
-| • **Empresas prestadoras de servicios de agua y alcantarillados (EPS):** Entidades responsables de la red matriz de agua y alcantarillado (ej. Sedapal).<br> •**Empresas operadoras de residuos sólidos:** <br>presas privadas que gestionan el transporte, tratamiento y disposición de residuos líquidos e industriales. | • Reducción de costos por multas: Evitar sanciones de la OEFA mediante el monitoreo preventivo de vertimientos.<br>• Seguridad Laboral: Prevención de accidentes fatales por inhalación de gases (H2S) en colectores.<br> • Optimización de Activos: Mayor vida útil de la infraestructura al detectar niveles críticos de acidez (pH).<br> • Logística Inteligente: Planificación eficiente de rutas para la recolección y redistribución de agua tratada.<br> |
+| • **Empresas prestadoras de servicios de agua y alcantarillados (EPS):** Entidades responsables de la red matriz de agua y alcantarillado (ej. Sedapal).<br> •**Empresas operadoras de residuos sólidos:** <br>Empresas privadas que gestionan el transporte, tratamiento y disposición de residuos líquidos e industriales. | • Reducción de costos por multas: Evitar sanciones de la OEFA mediante el monitoreo preventivo de vertimientos.<br>• Seguridad Laboral: Prevención de accidentes fatales por inhalación de gases (H2S) en colectores.<br> • Optimización de Activos: Mayor vida útil de la infraestructura al detectar niveles críticos de acidez (pH).<br> • Logística Inteligente: Planificación eficiente de rutas para la recolección y redistribución de agua tratada.<br> |
 | **5. Solutions** | **6. Hypotheses** |
 | Implementar una plataforma web conectada a sensores que puedan medir el pH, flujo, gases del estado del agua en tiempo real. La solución incluirá alertas automáticas para detectar anomalías, un panel de control para visualizar datos y un módulo de logística que facilite la redistribución del agua recuperada hacia zonas que la necesiten. | Creemos que si las EPS y operadores de residuos cuentan con monitoreo en tiempo real, podrán anticiparse a problemas como obstrucciones, contaminación o presencia de gases peligrosos. Sabremos que esto es cierto cuando se reduzcan las salidas de emergencia en al menos 20% y cuando los usuarios consideren la plataforma útil para la toma de decisiones en el area operativa. |
 | **7. What’s the most important thing we need to learn first?** | **8. What’s the least amount of work we need to do to learn that?** |
@@ -70,7 +70,7 @@ Creemos que automatizar la logística de redistribución de agua recuperada logr
 ## 1.3. Segmentos objetivo
 Nuestra aplicación se dirige a dos segmentos clave en el ecosistema de gestión de agua y residuos en Perú, enfocados en resolver la contaminación y subutilización del agua en estado deficiente. Ambos segmentos operan en un mercado con alta demanda por soluciones IoT debido a regulaciones ambientales estrictas (Ley General del Ambiente y DS 015 2015 MINAM) y la escasez hídrica crónica en zonas urbanas como Lima.<br>
 
-**1. Empresas prestadoras de servicios de agua y alcantarillados (EPS).**
+**1. Empresas prestadoras de servicios de agua y alcantarillados (EPS).** <br>
 Perfil demográfico y operativo:
 Principalmente medianas y grandes empresas estatales o mixtas, con sede en capitales provinciales (80% en Lima Metropolitana). Emplean entre 500–5,000 trabajadores, enfocadas en recolección, tratamiento y distribución de agua. Ejemplos: SEDAPAL (Lima) y EPS regionales como SEDACUSCO o SEDAPAR.
 Estadísticas de sustento:
@@ -80,7 +80,7 @@ Estadísticas de sustento:
 Oportunidad:
 Estas empresas necesitan herramientas de monitoreo en tiempo real, reactivas y predictivas, para mejorar el tratamiento de aguas residuales y avanzar hacia metas de reutilización de agua, alineadas con el Plan Estratégico 2025–2030 de la ANA (ANA, 2025).
 
-**2. Empresas operadoras de residuos sólidos**
+**2. Empresas operadoras de residuos sólidos** <br>
 Perfil demográfico y operativo:
 Empresas privadas o consorcios de tamaño mediano (100–1,000 empleados), con operaciones en municipios urbanos e industriales. Concentran el 70% de sus actividades en Lima y Callao, gestionando recolección, transporte y disposición final. Ejemplos: Urbaser, FCC Ambiente o empresas locales como Residuos Perú.
 Estadísticas de sustento:
