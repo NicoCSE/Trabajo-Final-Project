@@ -114,6 +114,11 @@ Para que Aquanetix logre tener éxito como la aplicación que permitirá reutili
 
 Edward Fernando Bojórquez Gonzales
 
+Evidencia:
+<p align = "left">
+  <img src="/report/assets/interviews/Entrevista_Fernando_Foto.png" width ="300" height="300">
+</p>
+
 Enlace:
 
 Duración de la entrevista:
@@ -131,6 +136,11 @@ Por último, Fernando nos mencionó que su mayor desafío logístico en su traba
 **Entrevista 2**
 
 Nombres y apellidos: José Ignacio Calle Chumacero
+
+Evidencia:
+<p align = "left">
+  <img src="/report/assets/interviews/Entrevista_Jose_Ignacio_Foto.png" width ="300" height="300">
+</p>
 
 Enlace:
 
