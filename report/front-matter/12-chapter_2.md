@@ -107,7 +107,29 @@ Para que Aquanetix logre tener éxito como la aplicación que permitirá reutili
 ### 2.2.2. Registro de entrevistas
 
 #### Segmento 1: Empresas prestadoras de servicios de agua y alcantarillado
-**Entrevista 1**<br>
+**Entrevista 1**
+
+Elizabeth Lucia Nava Mendoza
+
+Evidencia:
+<p align = "left">
+  <img src="/report/assets/interviews/Entrevista_Elizabeth_Foto.png" width ="300" height="300">
+</p>
+
+Enlace:
+
+Duración de la entrevista:
+
+Resumen:
+
+Nos encontramos con Elizabeth Nava, residente del distrito de Independencia, y quien se desempeña como ingeniera ambiental y consultora en gestión hídrica y saneamiento. Tiene 55 años y cuenta con experiencia en la evaluación y optimización de procesos relacionados al uso del recurso hídrico. En su trabajo utiliza principalmente laptop, software técnico y sistemas GIS para el análisis de datos y la identificación de puntos críticos, además de apoyarse en aplicaciones móviles para coordinar con equipos en campo.
+
+En cuanto al monitoreo del agua, Elizabeth comentó que actualmente este se realiza, en gran parte, mediante muestreos manuales en puntos específicos de la red, complementados con sensores básicos en planta como pH y turbidez. Sin embargo, destacó que el monitoreo en tiempo real aún es limitado fuera de estos puntos, lo que dificulta tener una visión completa del sistema. Asimismo, señaló que identificar el origen exacto de una anomalía es un proceso complejo, ya que muchas veces se detecta de forma indirecta a través de señales como baja presión o reportes de usuarios.
+
+Respecto a la operación, mencionó que se atienden aproximadamente entre 12 y 18 incidencias mensuales que, en muchos casos, podrían prevenirse con sistemas más avanzados de monitoreo. Además, explicó que las reparaciones de emergencia pueden costar entre 2 y 3 veces más que las programadas, debido a la urgencia y los recursos adicionales involucrados. La planificación del mantenimiento preventivo, por su parte, se basa principalmente en la antiguedad de la infraestructura y el historial de fallas, lo que evidencia un enfoque más reactivo que predictivo.
+
+Finalmente, Elizabeth indicó que el uso de sensores IoT aún es limitado debido a barreras como el alto costo de implementación y problemas de conectividad en zonas subterráneas. También resaltó que, aunque se utilizan sistemas GIS y ERPs básicos, la gestión operativa no está completamente integrada, ya que la coordinación con las cuadrillas suele realizarse mediante llamadas o aplicaciones como WhatsApp, generando una desconexión en la actualización de la información. En ese sentido, se evidencia la necesidad de soluciones más integradas que permitan mejorar la eficiencia y la toma de decisiones en tiempo real.
+
 
 #### Segmento 2: Empresas gestoras de residuos sólidos
 **Entrevista 1**
