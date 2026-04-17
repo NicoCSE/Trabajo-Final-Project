@@ -132,7 +132,7 @@ Finalmente, Elizabeth indicó que el uso de sensores IoT aún es limitado debido
 
 **Entrevista 2**
 
-Jorge Luis Castro Rojas
+Nombres y Apellidos: Jorge Luis Castro Rojas
 
 Evidencia:
 <p align = "left">
@@ -141,7 +141,27 @@ Evidencia:
 
 Enlace:
 
-Duración de la entrevista: 6:17 
+Duración de la entrevista: 6:17 min 
+
+Resumen:
+La entrevista inicia con la presentación de Jorge Luis Castro Rojas, un ingeniero sanitario de 48 años residente en Santiago de Surco. En su labor profesional, Jorge combina herramientas tradicionales con soluciones digitales modernas; utiliza Google Earth para la geolocalización de coordenadas, la plataforma Yorgos para el seguimiento de normativas y aplicaciones móviles como Timestamp Camera, que permite registrar evidencias fotográficas con datos precisos de tiempo y ubicación para sus reportes técnicos. 
+
+En lo referente a la gestión operativa, Jorge destaca el uso del sistema SAP y la inteligencia artificial a través de Copilot para optimizar sus tareas diarias. El control de la calidad del agua es un proceso riguroso que incluye auditorías mensuales de laboratorios acreditados por INACAL y monitoreos diarios de parámetros críticos como el pH, la turbidez y el cloro residual. Sin embargo, el ingeniero señala que la falta de sensores de flujo e IoT en toda la red limita la capacidad de obtener datos en tiempo real.
+
+Uno de los mayores desafíos técnicos mencionados por Jorge es la dificultad para localizar anomalías exactas en la red, como fugas o roturas de tuberías, debido a la carencia de planos digitalizados y mediciones de presión constantes. Actualmente, el mantenimiento preventivo se basa principalmente en la antigüedad de la infraestructura, una estrategia cuyo objetivo es anticiparse al deterioro natural de los materiales antes de que ocurran fallas críticas que comprometan el servicio.
+
+Finalmente, Jorge nos revela que la empresa atiende entre 3 a 5 emergencias mensuales, las cuales representan un reto economico superior al mantenimiento programado especialmente cuando ocurren en días festivos o madrugadas. Él resalta que la integración de nuevas aplicaciones y tecnologías de monitoreo en línea sería fundamental para transformar la respuesta reactiva en una gestión proactiva, mejorando significativamente la eficiencia del servicio de agua y alcantarillado.
+
+**Entrevista 3**
+## Coloca aqui los datos de tu entrevista, Sebas
+
+Nombres y Apellidos:
+
+Evidencia:
+
+Enlace:
+
+Duración de la entrevista:
 
 Resumen:
 
