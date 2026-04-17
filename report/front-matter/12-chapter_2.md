@@ -135,6 +135,9 @@ Finalmente, Elizabeth indicó que el uso de sensores IoT aún es limitado debido
 Jorge Luis Castro Rojas
 
 Evidencia:
+<p align = "left">
+  <img src="/report/assets/interviews/Entrevista_Jorge_Castro.png" width ="300" height="300">
+</p>
 
 Enlace:
 
