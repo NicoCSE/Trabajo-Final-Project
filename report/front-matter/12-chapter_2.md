@@ -130,6 +130,18 @@ Respecto a la operación, mencionó que se atienden aproximadamente entre 12 y 1
 
 Finalmente, Elizabeth indicó que el uso de sensores IoT aún es limitado debido a barreras como el alto costo de implementación y problemas de conectividad en zonas subterráneas. También resaltó que, aunque se utilizan sistemas GIS y ERPs básicos, la gestión operativa no está completamente integrada, ya que la coordinación con las cuadrillas suele realizarse mediante llamadas o aplicaciones como WhatsApp, generando una desconexión en la actualización de la información. En ese sentido, se evidencia la necesidad de soluciones más integradas que permitan mejorar la eficiencia y la toma de decisiones en tiempo real.
 
+**Entrevista 2**
+
+Jorge Luis Castro Rojas
+
+Evidencia:
+
+Enlace:
+
+Duración de la entrevista: 6:17 
+
+Resumen:
+
 
 #### Segmento 2: Empresas gestoras de residuos sólidos
 **Entrevista 1**
@@ -178,9 +190,7 @@ En cuanto a recursos tecnológicos, comentó que realizaron un plan piloto de mo
 
 Por último, José Ignacio destacó que el mayor desafío que enfrentan en su trabajo es el factor tiempo, pues la logística de lavado puede retrasar los servicios, por lo que buscan eficiencia en este proceso. Por ello, considerarían exitoso un sistema de reutilización de agua si este lograra un ahorro mínimo de 20,000 soles mensuales, lo cual justificaría la inversión tecnológica.
 
-#### Segmento 2: Empresas de gestión de residuos sólidos.
-
-**Entrevista 1**
+**Entrevista 3**
 
 Cristian Qquecano De la Sota
 
