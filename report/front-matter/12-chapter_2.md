@@ -118,7 +118,7 @@ Evidencia:
 
 Enlace:
 
-Duración de la entrevista:
+Duración de la entrevista: **06:14 min**
 
 Resumen:
 
@@ -141,7 +141,7 @@ Evidencia:
 
 Enlace:
 
-Duración de la entrevista: 6:17 min 
+Duración de la entrevista: **06:17 min** 
 
 Resumen:
 La entrevista inicia con la presentación de Jorge Luis Castro Rojas, un ingeniero sanitario de 48 años residente en Santiago de Surco. En su labor profesional, Jorge combina herramientas tradicionales con soluciones digitales modernas; utiliza Google Earth para la geolocalización de coordenadas, la plataforma Yorgos para el seguimiento de normativas y aplicaciones móviles como Timestamp Camera, que permite registrar evidencias fotográficas con datos precisos de tiempo y ubicación para sus reportes técnicos. 
@@ -161,7 +161,7 @@ Evidencia:
 
 Enlace:
 
-Duración de la entrevista:
+Duración de la entrevista: **07:33 min**
 
 Resumen:
 
@@ -178,7 +178,7 @@ Evidencia:
 
 Enlace:
 
-Duración de la entrevista:
+Duración de la entrevista: **07:18 min**
 
 Resumen:
 
@@ -201,7 +201,7 @@ Evidencia:
 
 Enlace:
 
-Duración de la entrevista:
+Duración de la entrevista:**12:30 min**
 
 Resumen:
 
@@ -224,7 +224,7 @@ Evidencia:
 
 Enlace:
 
-Duración de la entrevista: 05:06 min
+Duración de la entrevista: **05:06 min**
 
 Resumen: 
 
