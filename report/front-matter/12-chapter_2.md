@@ -298,6 +298,10 @@ En general, sus tareas reflejan un compromiso con la eficiencia y la sostenibili
 #### User Persona 1: 
 
 #### User Persona 2: Ricardo Sánchez
+<p align = "left">
+  <img src="/report/assets/journey_maps/Ricardo Sanchez's Journey Map.png">
+</p>
+
 
 ## Referencias bibliográficas
 - Autoridad Nacional del Agua (ANA). (2025). Plan estratégico 2025–2030. https://www.ana.gob.pe/sites/default/files/file_content/PLAN%20ESTRATEGICO%202025-2030.pdf 
