@@ -297,6 +297,9 @@ Respecto a los Gains de nuestros usuarios:
 ### 2.3.1. User Personas
 
 #### Segmento 1: Empresas prestadoras de servicios de agua y alcantarillado
+<p align = "left">
+  <img src="/report/assets/ux_pressia/Jorge Navarro's User Persona.png">
+</p>
 
 #### Segmento 2: Empresas gestoras de residuos sólidos
 <p align = "left">
