@@ -29,3 +29,8 @@ Utilizaremos un sistema de espaciado basado en una rejilla de 8px (base 8). Esto
 
 #### Tono de comunicación
 Los tonos de comunicación serán mayormente serios, con un toque de entusiasmo. Queremos priorizar la precisión técnica y la confianza municipal, a la vez que queremos transmitir que el cambio es posible mediante la tecnología.
+
+## 4.1.2. Web Style Guidelines:
+
+Para la interfaz web de Aquanetix, el diseño se fundamenta en una estructura modular basada en contenedores limpios, priorizando la rápida lectura de grandes volúmenes de datos operativos. Los paneles de control principales utilizarán una disposición en cuadrícula para permitir a los supervisores visualizar métricas complejas de manera estructurada. Además, se aplicarán bordes sutilmente redondeados junto con sombras difuminadas para generar jerarquía visual. De este modo, aseguramos mantener la atención del usuario enfocada estrictamente en los indicadores críticos, como el porcentaje de llenado de lixiviados o las alertas de sobreconsumo, previniendo la fatiga visual durante jornadas extensas de monitoreo.
+Por otro lado, respecto a la interactividad de la plataforma, los componentes están diseñados para ofrecer retroalimentación inmediata, cambiando de estado visualmente al recibir clics o desplazamientos del cursor. Resulta indispensable que toda la interfaz responda fluidamente a distintos tamaños de pantalla mediante principios de diseño adaptable (responsive design). Así, garantizamos una experiencia de uso coherente tanto para un gerente que exporta reportes de huella hídrica desde una computadora de escritorio en la oficina, como para un operario que ingresa registros en tiempo real desde su teléfono móvil en medio del patio de maniobras.
